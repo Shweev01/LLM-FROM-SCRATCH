@@ -12,3 +12,10 @@ Learning Large Language Models from raw text to agentic Systems - implemented fr
 -Replaced bigram model with an RNN-based language model
 -Modeled sequential dependencies using hidden states
 -Observed training instability and memory limitaions of vanilla RNNs
+
+### Day 03
+- Implemented self-attention from scratch
+- Built an attention-based language model
+- Demonstrated failure without causal masking
+- Implemented GPT-style masked attention
+
