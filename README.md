@@ -19,3 +19,11 @@ Learning Large Language Models from raw text to agentic Systems - implemented fr
 - Demonstrated failure without causal masking
 - Implemented GPT-style masked attention
 
+
+### Day 04
+- Implemented multi-head masked self-attention
+- Added learned positional embeddings
+- Built a complete Transformer block
+- Assembled a mini Transformer language model
+
+
